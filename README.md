@@ -74,6 +74,6 @@ Implement event listeners and interaction logic in `script.js`. This script shou
 3. Test your application thoroughly to ensure accuracy and usability.
 
 ## Submission
-Submit your project by pushing your changes to your repository. Ensure that your final submission includes the `MusicTools.js` and `script.js` files, along with any modifications you've made to `index.html`.
+Push your changes to your repository and submit a URL to your GitHub Repo. Ensure that your final submission includes the `MusicTools.js` and `script.js` files, along with any modifications you've made to `index.html`.
 
 Good luck, and have fun with the project!
